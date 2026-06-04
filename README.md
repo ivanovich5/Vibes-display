@@ -2,11 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Vibes — InspiraFlow
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/ea48fad1-4f70-4971-acde-a6bd304325d6
 
 # 🌌 Vibes — InspiraFlow
 
@@ -22,6 +18,11 @@ fórmulas de movimiento predictivo y aleatorio.
 *   **Persistencia Local Elegante:** Panel lateral corredizo (Drawer) para salvaguardar tus frases preferidas guardadas con sincronización en `localStorage`.
 
 
+# Vibes — InspiraFlow
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/ea48fad1-4f70-4971-acde-a6bd304325d6
 
 ## Run Locally
 
