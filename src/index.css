@@ -29,3 +29,10 @@
   border: 1px solid rgba(255, 255, 255, 0.1);
   @apply rounded-[24px] shadow-[0_8px_32px_rgba(0,0,0,0.3)];
 }
+
+.gold-glow {
+  background: linear-gradient(135deg, #fff3d1 0%, #fbbf24 45%, #d97706 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 10px rgba(251, 191, 36, 0.6));
+}
